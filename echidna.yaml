@@ -1,3 +1,4 @@
 testMode: "property"
 prefix: "invariant"
 coverage: true
+corpusDir: "echidna"
